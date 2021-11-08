@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="heading">Welcome</string>
+    <string name="description">Grid</string>
+    <string name="turn1">First Player\'s turn</string>
+    <string name="turn2">Second Player\'s turn</string>
+    <string name="cell_description">Value present in the cell</string>
+</resources>
